@@ -7,7 +7,7 @@ from langchain_classic.chains.summarize import load_summarize_chain
 from langchain_core.prompts import PromptTemplate
 
 
-st.title("youtube url loader")
+st.title("YouTube URL Summarizer Using Map_Reduce Chain")
 
 model=None
 groq_api_key=st.sidebar.text_input("enter groq key", type="password")
