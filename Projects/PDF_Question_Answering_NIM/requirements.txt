@@ -1,0 +1,9 @@
+langchain-nvidia-ai-endpoints
+streamlit
+langchain
+langchain-groq
+langchain_community
+langchain_core
+faiss-cpu
+langchain-ollama
+pypdf
