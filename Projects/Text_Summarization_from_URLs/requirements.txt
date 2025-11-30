@@ -8,3 +8,4 @@ youtube-transcript-api
 unstructured
 pytube
 yt-dlp
+transformers

@@ -18,7 +18,7 @@ st.subheader("Summarize URL")
 
 groq_api_key=st.sidebar.text_input("GROQ API KEY", type="password")
 
-model = None
+
 if groq_api_key:
     try:
         model = ChatGroq(model="llama-3.1-8b-instant",api_key=groq_api_key)
