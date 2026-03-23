@@ -23,3 +23,6 @@ uvicorn
 langserve
 sse_starlette
 huggingface_hub
+pinecone
+pinecone-text
+pinecone-notebooks

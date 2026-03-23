@@ -13,7 +13,7 @@ from langchain_classic.chains import create_retrieval_chain
 
 # Streamlit Framework Starts
 
-st.set_page_config(page_title="PDF Question Answering NIM", page_icon="📖")
+st.set_page_config(page_title="PDF Question Answering", page_icon="📖")
 st.title("PDF Question Answering NIM")
 
 groq_api_key = st.sidebar.text_input("Enter your groq api key")
